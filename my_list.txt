@@ -1,5 +1,5 @@
-Magus
+Skald
 Slayer
 Shaman
 Paladin
-
+Magus
