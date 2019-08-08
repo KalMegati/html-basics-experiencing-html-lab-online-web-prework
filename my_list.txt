@@ -1,7 +1,5 @@
-"Nethys"
-"Irori"
-"Shelyn"
-"Desna"
-"Sarenrae"
-"Iomedae"
-"Cayden Cailean"
+Magus
+Slayer
+Shaman
+Paladin
+
